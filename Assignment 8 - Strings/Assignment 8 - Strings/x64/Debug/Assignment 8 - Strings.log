@@ -1,0 +1,4 @@
+﻿  Assignment 8 - Strings.cpp
+C:\Users\Shira\source\repos\Assignment 8 - Strings\Assignment 8 - Strings\Assignment 8 - Strings.cpp(17,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shira\source\repos\Assignment 8 - Strings\Assignment 8 - Strings\Assignment 8 - Strings.cpp(51,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 8 - Strings.vcxproj -> C:\Users\Shira\source\repos\Assignment 8 - Strings\x64\Debug\Assignment 8 - Strings.exe
